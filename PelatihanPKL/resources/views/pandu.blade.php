@@ -7,11 +7,13 @@
     <title>Bio {{ $nama }}</title>
 </head>
 <body>
+
     <div>
         <h1>Nama    : {{ $nama }} </h1>
         <h1>NIM     : {{ $nim }}</h1>
         <h1>Prodi   : {{ $prodi }}</h1>
         <h1>Alamat  : {{ $alamat }}</h1>
     </div>
+
 </body>
 </html>
